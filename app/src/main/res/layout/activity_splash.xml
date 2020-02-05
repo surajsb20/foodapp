@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/flash_color"
+    android:gravity="center"
+    tools:context="com.khaadyam.khaadyamusers.activities.SplashActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorTextWhite"
+        android:fontFamily="@font/saman"
+        android:textSize="@dimen/_30sdp"
+        android:text="@string/app_name"
+        />
+
+    <!--<ImageView-->
+        <!--android:padding="@dimen/_10sdp"-->
+        <!--android:id="@+id/app_logo"-->
+        <!--android:layout_width="@dimen/_180sdp"-->
+        <!--android:layout_height="@dimen/_180sdp"-->
+        <!--android:contentDescription="@string/login"-->
+        <!--android:src="@mipmap/ic_launcher_user" />-->
+
+</LinearLayout>
+

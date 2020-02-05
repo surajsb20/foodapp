@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246758128672",
+    "firebase_url": "https://khaadhyam-88770.firebaseio.com",
+    "project_id": "khaadhyam-88770",
+    "storage_bucket": "khaadhyam-88770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246758128672:android:e215bb0b79f5a53b",
+        "android_client_info": {
+          "package_name": "com.khaadyam.khaadyamusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246758128672-d92cmriurrh72tm2usjvioehl0v4ujap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRkhuyFp05OKX7YscKOS1n6BjaA1mv1Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246758128672-d92cmriurrh72tm2usjvioehl0v4ujap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
